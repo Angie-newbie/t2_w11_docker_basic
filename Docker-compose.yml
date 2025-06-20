@@ -1,0 +1,6 @@
+services:
+  helloworldtesting01:
+    image: hello-world-nodejs
+
+  helloworldtest04:
+    build: .
