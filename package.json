@@ -1,0 +1,20 @@
+{
+  "name": "t2_w11_docker_basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angie-newbie/t2_w11_docker_basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angie-newbie/t2_w11_docker_basic/issues"
+  },
+  "homepage": "https://github.com/Angie-newbie/t2_w11_docker_basic#readme",
+  "description": ""
+}
